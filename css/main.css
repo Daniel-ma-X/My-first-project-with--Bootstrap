@@ -1,0 +1,34 @@
+.carousel {
+    max-height: 40rem;
+}
+
+.carousel-inner .carousel-item {
+    max-height: 1000vh;
+}
+
+.carousel-inner .carousel-item img {
+    height: 100%;
+}
+
+.boton-slider {
+    color: black;
+    background-color: black;
+}
+
+.container hr {
+    height: 5px;
+    margin: 45px auto;
+}
+
+.form-control {
+    /* margin: 0 auto; */
+    max-width: 100%;
+}
+
+.input-group .textarea {
+    min-height: 170px;
+}
+
+.footer__redes-ancla {
+    text-decoration: none;
+}
